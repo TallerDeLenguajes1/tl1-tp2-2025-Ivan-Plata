@@ -1,0 +1,3 @@
+f) Puede ver el archivo tp2_1_2.c? Por qué?
+    No puedo verlo porque está en una carpeta llamada output, dentro de la carpeta 
+    donde está clonado el repositorio.
