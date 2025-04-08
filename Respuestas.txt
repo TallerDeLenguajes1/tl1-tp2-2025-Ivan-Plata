@@ -1,3 +1,8 @@
 f) Puede ver el archivo tp2_1_2.c? Por qué?
     No puedo verlo porque está en una carpeta llamada output, dentro de la carpeta 
     donde está clonado el repositorio.
+ Que diferencias nota?
+    Ahora puedo ver una division en el progreso de mi trabajo.
+    Luego de hacer el merge ahora las dos ramas en las que se dividió mi trabajo se unen en un mismo punto.
+    
+    
